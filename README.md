@@ -5,7 +5,6 @@
  <img src="https://img.shields.io/npm/v/npm?style=plastic">
  <img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fprowriter.itsvg.in/"> 
  <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=plastic"/>
- <img src="https://img.shields.io/github/languages/code-size/nikhilsundriya/pro-writer?logo=github&style=plastic">
 </div>
 
 
