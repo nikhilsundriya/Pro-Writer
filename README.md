@@ -3,7 +3,7 @@
  <img src="https://img.shields.io/badge/Release-v.1.0.0-brightgreen?style=plastic"/>
  <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen?style=plastic"/>
  <img src="https://img.shields.io/npm/v/npm?style=plastic">
- <img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fprowriter.itsvg.in/"> 
+ <img src="https://img.shields.io/website?style=plastic&url=https://pro-writer-nikhil.netlify.app/"> 
  <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=plastic"/>
 </div>
 
