@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/npm/v/npm?style=plastic">
  <img src="https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fprowriter.itsvg.in/"> 
  <img src="https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=plastic"/>
- <img src="https://img.shields.io/github/languages/code-size/VishwaGauravIn/pro-writer?logo=github&style=plastic">
+ <img src="https://img.shields.io/github/languages/code-size/nikhilsundriya/pro-writer?logo=github&style=plastic">
 </div>
 
 
@@ -28,7 +28,7 @@ It works on all devices, Sounds good? Well there is lot more to come.
 This project is Open Source so if you want any new feature, you can add this yourself by contributing to our GitHub repository or request a feature
 
 
-### Website is Live : [prowriter.itsvg.in](https://prowriter.itsvg.in)
+### Website is Live : (https://pro-writer-nikhil.netlify.app/)
 
 # Screensorts
    ![image](https://user-images.githubusercontent.com/81325730/194935068-342d6081-9f52-4059-947a-7c8bc6ed1e4c.png)
@@ -37,9 +37,6 @@ This project is Open Source so if you want any new feature, you can add this you
    ![image](https://user-images.githubusercontent.com/81325730/194935221-7c8d3d09-1b13-4dbb-ab61-c0cbe3da84b5.png)
    ![image](https://user-images.githubusercontent.com/81325730/194935133-a262dcb5-cf00-4dfd-8d6f-46d01505119e.png)
    ![image](https://user-images.githubusercontent.com/81325730/194935265-68197cd0-3908-4006-9e5b-79c2f6c63fae.png)
-   
-# PageSpeed Insights
-<img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/900d7c8ebd920e9151a578fa859a392c926905d3/pw_psi.svg" align="center">
 
 # Tech Used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,5 +57,5 @@ This project is Open Source so if you want any new feature, you can add this you
 
 **Stuck? Search your issue/error on Google** 
 
-### [Play With Code](https://codesandbox.io/s/github/VishwaGauravIn/pro-writer)
+### [Play With Code](https://codesandbox.io/s/github/nikhilsundriya/pro-writer)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.dev/nikhilsundriya/pro-writer)
