@@ -26,9 +26,7 @@ Wrote something important but forgot to save? Don't worry, we got your back. You
 It works on all devices, Sounds good? Well there is lot more to come. 
 This project is Open Source so if you want any new feature, you can add this yourself by contributing to our GitHub repository or request a feature
 
-
 ### Website is Live : (https://pro-writer-nikhil.netlify.app/)
-
 
 # Tech Used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
