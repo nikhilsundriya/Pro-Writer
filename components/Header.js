@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-
 export default function Header() {
   useEffect(()=>{
       if(localStorage.getItem('favTheme') === 'fuchsia'){fuchsia()}
